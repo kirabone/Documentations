@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>chatXi — Experimental Social Simulation Platform</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <h1>chatXi</h1>
+
+  <h2>What is chatXi?</h2>
+
+  <p>
+    <strong>chatXi</strong> is an experimental project focused on simulating social media
+    interactions in a controlled environment. The goal is to combine traditional chat
+    application features with advanced virtual social behavior powered by AI.
+  </p>
+
+  <p>
+    Unlike conventional chat applications, chatXi is designed to explore how artificial
+    agents can mimic real human behavior — including delayed responses, personality traits,
+    emotional inconsistency, and unpredictable social actions.
+  </p>
+
+  <h2>Core Features</h2>
+
+  <ul>
+    <li>
+      <strong>Standard Chat System</strong> — Messaging features commonly found in modern
+      chat applications.
+    </li>
+    <li>
+      <strong>Virtual Social Simulation</strong> — AI-driven users that behave like real
+      humans rather than instant-response bots.
+    </li>
+  </ul>
+
+  <p>
+    AI participants in chatXi may respond late, initiate conversations independently,
+    form opinions, provide misleading information, unfriend users, or disengage entirely —
+    simulating real social dynamics.
+  </p>
+
+  <h2>Project Phases</h2>
+
+  <ol>
+    <li>
+      <strong>Phase 1:</strong> Command-line (CLI) based chat application without AI.
+    </li>
+    <li>
+      <strong>Phase 2:</strong> Introduction of a graphical user interface (GUI) alongside
+      the CLI system.
+    </li>
+    <li>
+      <strong>Phase 3:</strong> Integration of limited AI bots that simulate human-like
+      behavior, including delayed responses and distinct personalities.
+    </li>
+    <li>
+      <strong>Phase 4:</strong> Expansion of AI autonomy — bots can send, receive, accept,
+      or decline friend requests and manage relationships independently.
+    </li>
+    <li>
+      <strong>Phase 5:</strong> Human-based AI cloning system, allowing users to create
+      consent-based AI representations of themselves. These clones can interact with others
+      while providing summarized interaction reports to the original user.
+    </li>
+  </ol>
+
+  <h2>Objective</h2>
+
+  <p>
+    The primary objective of chatXi is to study social behavior, communication patterns,
+    and ethical implications of AI-driven human simulation in digital environments.
+  </p>
+
+</body>
+</html>
